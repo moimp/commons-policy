@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.masil.commons.condition.ConditionsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-12-26T09:29:28" hostname="macbookpro.local" time="0.056">
+  <properties/>
+  <testcase name="test_anyTrue()" classname="org.masil.commons.condition.ConditionsTest" time="0.042"/>
+  <testcase name="test_alwaysFalse()" classname="org.masil.commons.condition.ConditionsTest" time="0.001"/>
+  <testcase name="test_or()" classname="org.masil.commons.condition.ConditionsTest" time="0.0"/>
+  <testcase name="test_and()" classname="org.masil.commons.condition.ConditionsTest" time="0.0"/>
+  <testcase name="test_not()" classname="org.masil.commons.condition.ConditionsTest" time="0.001"/>
+  <testcase name="test_xOr()" classname="org.masil.commons.condition.ConditionsTest" time="0.001"/>
+  <testcase name="test_alwaysTrue()" classname="org.masil.commons.condition.ConditionsTest" time="0.0"/>
+  <testcase name="test_allFalse()" classname="org.masil.commons.condition.ConditionsTest" time="0.0"/>
+  <testcase name="test_equalsTo_object_type()" classname="org.masil.commons.condition.ConditionsTest" time="0.002"/>
+  <testcase name="test_equalsTo_primitive_type()" classname="org.masil.commons.condition.ConditionsTest" time="0.001"/>
+  <testcase name="test_allTrue()" classname="org.masil.commons.condition.ConditionsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
